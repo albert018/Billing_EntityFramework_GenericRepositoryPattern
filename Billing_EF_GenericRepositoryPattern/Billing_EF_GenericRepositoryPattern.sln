@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billing_EF_GenericRepositoryPattern", "Billing_EF_GenericRepositoryPattern\Billing_EF_GenericRepositoryPattern.csproj", "{AC532FEB-F613-4480-BA45-0E8A92CB30F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{12D9EA6B-C64D-48FF-8535-814E1D1D439D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC532FEB-F613-4480-BA45-0E8A92CB30F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC532FEB-F613-4480-BA45-0E8A92CB30F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC532FEB-F613-4480-BA45-0E8A92CB30F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC532FEB-F613-4480-BA45-0E8A92CB30F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D9EA6B-C64D-48FF-8535-814E1D1D439D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D9EA6B-C64D-48FF-8535-814E1D1D439D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D9EA6B-C64D-48FF-8535-814E1D1D439D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D9EA6B-C64D-48FF-8535-814E1D1D439D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
